@@ -6,7 +6,7 @@ Additional Requirements:
 1. Requests(version 2.3.0) - requests HTTP library
 if you don't have please downoad and install it from <http://python-requests.org>.
 
-2. API KEY : sign up at 'paste.ee' and get you own API_KEY instalize API_KEY variable with the given key.
+2. API KEY : sign up at 'paste.ee' and get your own API_KEY instalize API_KEY variable with the given key.
 
 """
 
