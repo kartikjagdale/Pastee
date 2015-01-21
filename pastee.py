@@ -67,7 +67,7 @@ def main():
 									and returns a url to share among the users.  
 
 									This Program also Copies the returned url to Clipboard so that you can
-									paste it anywhere you wan and share instantly.
+									paste it anywhere you want and share instantly.
 									
 									syntax:
 									python pastee.py -d(optional)<Description> <filename.extension> or file or 
