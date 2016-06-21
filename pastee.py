@@ -36,7 +36,7 @@ def pastee(desc, txt):
 	r = None
 
 	try:
-		r = requests.post('http://paste.ee/api',params=post_param, verify=False) # Post the params to Pastee API and get the url
+		r = requests.post('http://paste.ee/api',data=post_param, verify=False) # Post the params to Pastee API and get the url
 	except requests.ConnectionError as e:
 		print 'Connection Error'
 	
